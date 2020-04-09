@@ -1,0 +1,6 @@
+[user]
+	name = Junnosuke Takii
+[core]
+	quotepath = false
+[gui]
+	encoding = utf-8
